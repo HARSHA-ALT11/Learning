@@ -1,0 +1,18 @@
+package labledloop;
+
+public class demo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		harsha:for(int i=0;i<=5;i++)
+		{
+			ad:for(int j=1;j<=5;j++)
+			{
+				System.out.println("Monalisa ");
+				break ad;
+			}
+		}
+
+	}
+
+}

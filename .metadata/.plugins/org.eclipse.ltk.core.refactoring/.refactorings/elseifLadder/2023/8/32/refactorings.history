@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;elseifLadder.Score.java&apos; to &apos;Grade.java&apos;&#x0D;&#x0A;- Original project: &apos;elseifLadder&apos;&#x0D;&#x0A;- Original element: &apos;elseifLadder.Score.java&apos;&#x0D;&#x0A;- Renamed element: &apos;elseifLadder.Grade.java&apos;" description="Rename compilation unit &apos;Score.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;elseifLadder{Score.java" name="Grade.java" references="false" stamp="1691511136612" version="1.0"/>
+</session>

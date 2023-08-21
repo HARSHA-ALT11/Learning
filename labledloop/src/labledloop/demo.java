@@ -1,0 +1,23 @@
+package labledloop;
+
+public class demo {
+
+	public static void main(String[] args) {
+		int n =1;
+		harsh:while(n<=5)
+		{
+			int j=1;
+			while(j<=5)
+			{
+				System.out.print(" * ");
+				j++;
+				break harsh;
+			}
+			n++;
+			System.out.println();
+		}
+		
+
+	}
+
+}
